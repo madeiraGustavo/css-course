@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+h1{
+    color:rgb(104, 70, 8);
+    font-size: 96px;
+    font-weight: 900;
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+h2{
+
+}
+
+p{
+    font-size: 18px;
+}
+
+.bg {
+    height: 500px;
+    width: 100%;
+    background-color: gray;
+    background-image: url(https://img.freepik.com/fotos-gratis/floresta-do-outono_1182-869.jpg?w=2000);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
